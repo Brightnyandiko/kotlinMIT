@@ -8,5 +8,5 @@ fun main(args: Array<String>) {
 
     //non-nullable type
     var myname:String="Bright"
-    myname=null
+
 }
